@@ -1,6 +1,6 @@
 # Assignment Setup Guidelines:
 Download all the files mentioned in the git repository within the mywork/feature branch.
-1. Install the latest version of IntelliJIDEA latest version (say 2021.3.1) (https://www.jetbrains.com/idea/download/) and then create a new maven project.
+1. Install the latest version of IntelliJIDEA latest version Community edition (say 2021.3.1) (https://www.jetbrains.com/idea/download/) and then create a new maven project.
 2. Make sure you have JDK 8u291 (JRE verison 8 atleast) toolkit is installed in the machine and also scala@2.12.15 version (Here we can find different ways to do it for a variety of Operating Systems https://www.scala-lang.org/download/2.12.15.html) also should be installed.
 3. Select Maven project and provide any project name and GroupId, click next and Finish.
 4. Once the project is created, Please rename the folder present in src/main/java to src/main/scala.
