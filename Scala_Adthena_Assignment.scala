@@ -3,6 +3,7 @@ import scala.io.StdIn.readLine
 
 object Scala_Adthena_Assignment {
   def main(args: Array[String]): Unit = {
+    
     println("SubTotal: £"+subTotalPrice(countOccurences,basketData))
 
     // Checking if there is an offer or not and also calculating the final total price present in the basket after discount
